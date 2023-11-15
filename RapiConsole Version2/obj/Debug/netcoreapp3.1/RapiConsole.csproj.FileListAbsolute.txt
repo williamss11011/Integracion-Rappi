@@ -1,0 +1,63 @@
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.exe
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.deps.json
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.json
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.dev.json
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.pdb
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csprojAssemblyReference.cache
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfoInputs.cache
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfo.cs
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csproj.CopyComplete
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.dll
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.pdb
+C:\Users\wmarcillo\Documents\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.genruntimeconfig.cache
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.exe
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.deps.json
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.json
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.dev.json
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.pdb
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfoInputs.cache
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfo.cs
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.dll
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.pdb
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.genruntimeconfig.cache
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csproj.CopyComplete
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.exe
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.deps.json
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.json
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.runtimeconfig.dev.json
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RapiConsole.pdb
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\RestSharp.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Mis Aplicaciones\RapiConsole Version2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csprojAssemblyReference.cache
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfoInputs.cache
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.AssemblyInfo.cs
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csproj.CopyComplete
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.dll
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.pdb
+A:\Mis Aplicaciones\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.genruntimeconfig.cache
+C:\Users\wmarcillo\Desktop\RapiConsole Version2\obj\Debug\netcoreapp3.1\RapiConsole.csprojAssemblyReference.cache
